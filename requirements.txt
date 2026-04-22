@@ -1,0 +1,8 @@
+aiohttp
+faststream[rabbit]
+alembic
+pydantic-settings
+asyncpg
+uvicorn
+SQLAlchemy
+fastapi
